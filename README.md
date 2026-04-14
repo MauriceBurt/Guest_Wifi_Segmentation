@@ -82,3 +82,5 @@ These configurations demonstrate:
 👉 [Download Packet Tracer File](./topology)
 
 Use this file to explore or replicate the full network design.
+---
+Part of the [Modular Networks Design Library](https://github.com/MauriceBurt/Modular-Networks).
