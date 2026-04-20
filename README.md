@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MauriceBurt/Modular-Networks/main/Transparent_PNG.png" width="350"/>
+</p>
+
 # Guest Wi-Fi Segmentation
 
 This design demonstrates a foundational network segmentation model for a small business environment, focused on securing internal resources while providing controlled guest Wi-Fi access.
